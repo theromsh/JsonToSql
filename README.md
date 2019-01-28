@@ -3,7 +3,7 @@ Parse a JSON file and dynamically pass all its documents into a MySQL database t
 
 To run Json to MYSql Program:
 - go to the directory "initTables.py" file is in
-- run: python initTables.py <json file path>
+- run: python initTables.py (json file path)
 
 (example: python initTables.py accounts.json)
 
