@@ -7,6 +7,9 @@ To run Json to MYSql Program:
 
 (example: python initTables.py accounts.json)
 
+Output:
+The output is a sqlite DB called: "main.db"
+
 Note:
 1. python 3.4 (and above) is needed in order to run the program
 2. Libraries that is needed to be installed:
